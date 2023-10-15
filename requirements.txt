@@ -1,3 +1,4 @@
-plotly==5.15.0
-pandas==2.0.3
-json==2.0.9
+streamlit
+plotly
+pandas
+numpy
